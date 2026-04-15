@@ -12,6 +12,7 @@ header {
 }
 div{
     align-content: center;
+    margin: 70px;
 }
 .hero {
     display: flex;
@@ -33,4 +34,23 @@ a.bouton{
 }
 .\32 {
     display: flex;
+    background-color: rgb(244, 220, 189);
+}
+h2{
+    text-align: center;
+}
+p.titre {
+    text-align: center;
+}
+img.\31{
+    width: 500px;
+    height: 500px;
+    border-radius: 20px;
+}
+header{
+    background-color: #665345;
+}
+img.\33 {
+    width: 250px;
+    border-radius: 15px;
 }
