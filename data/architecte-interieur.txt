@@ -15,6 +15,14 @@ Typographie Titres: Cormorant Garamond
 Typographie Corps: Manrope
 
 
+----------------------------------section hero----------------------------------------
+
+
+
+
+
+
+-------------------------section 2-------------------------
 Promesses Clients
 
 Titre: Une approche centrée sur vos besoins et votre bien-être
@@ -24,6 +32,8 @@ Titre: Une approche centrée sur vos besoins et votre bien-être
 - Un accompagnement complet, du croquis à la réception du chantier
 
 
+
+-----------------------------------section 3------------------------------------------
 
 Prestations Proposees
 
@@ -38,6 +48,7 @@ Details: Conception de mobilier intégré et d'espaces adaptés à vos besoins :
 Intitule: Décoration intérieure
 Details: Sélection de matériaux, textures et couleurs pour harmoniser votre intérieur et lui donner une identité unique.
 
+-------------------------------------------section 4-------------------------------------------
 
 Projets
 
@@ -53,6 +64,7 @@ Description Projet: Optimisation d’un petit espace de 25 m² avec mobilier mod
 Titre Projet: Boutique artisanale – Croix-Rousse
 Description Projet: Transformation d’un ancien atelier en boutique lumineuse : jeu de textures entre béton ciré, bois brut et verrières d’atelier.
 
+----------------------------------section 5----------------------------------------------
 
 Temoignages
 
